@@ -1,0 +1,73 @@
+
+            .sub-btn{
+                background-color: rgb(221, 2, 2);
+                color: white;
+                height: 36px;
+                width: 105px;
+                border: none;
+                border-radius: 2px;
+                cursor: pointer;
+                transition: opacity 0.15s;
+                vertical-align: top;
+            }
+            .sub-btn:hover{
+        opacity: .7;
+            }
+            .sub-btn:active{
+        opacity: .5;
+            }
+            .join-btn{
+                background-color: white;
+                border-color: rgb(46, 46, 248);
+                color: rgb(46, 46, 248) ;
+                border-style: solid;
+                height: 36px;
+                width: 62px;
+                cursor: pointer;
+                border-radius: 2px;
+                border-width: 1px;
+                margin-left: 8px;
+                transition: background-color .15s,color .15s;
+                vertical-align: top;
+            }
+            .join-btn:hover{
+                background-color:rgb(46, 46, 248)  ;
+                color: white;
+            }
+            .join-btn:active{
+                opacity: .7;
+            }
+            .tweet-btn{
+                background-color: rgb(51, 51, 248);
+                color: white;
+                border: none;
+                height: 36px;
+                width: 74px;
+                cursor: pointer;
+                border-radius: 18px;
+                margin-left: 8px;
+                font-weight: bold;
+                font-size: 15px;
+               transition: box-shadow .15s;
+               vertical-align: top;
+            }
+            .tweet-btn:hover{
+                box-shadow: 5px 5px 5px rgba(0,0,0, .7);
+            }
+            .tweet-btn:active{
+        opacity: .7;
+            }
+            .ex-btn{
+                margin-left: 8px;
+                background-color: rgb(51, 51, 248);
+                color: white;
+                font-weight: bold;
+                font-size: 15px;
+                border: none;
+               padding-left: 20px;
+               padding-top: 10px;
+               padding-right: 20px;
+               padding-bottom: 10px;
+               vertical-align: top;
+            }
+        

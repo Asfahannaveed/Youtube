@@ -1,0 +1,10 @@
+.thumbnail{
+height: 300px;
+    object-fit: contain;
+    object-position: bottom;
+    border-style: solid;
+    border-color: blue;
+    border-width: 2px;
+    object-fit: cover;
+    object-position: left;
+}
